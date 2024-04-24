@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sudoku {
+public class Ejercicio198 {
     public static void main(String[] args) {
         int[][] sudoku = generarSudoku();
         mostrarSudoku(sudoku);

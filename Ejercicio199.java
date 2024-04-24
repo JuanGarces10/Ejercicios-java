@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ajedrez {
+public class Ejercicio199 {
     public static void main(String[] args) {
         char[][] tablero = {
             {'_', '_', '_', '_', '_', '_', '_', '_'},

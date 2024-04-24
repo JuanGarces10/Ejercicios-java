@@ -1,4 +1,4 @@
-public class InversionBancaria {
+public class Ejercicio200 {
     public static void main(String[] args) {
         double capitalInicial = 1000; // Capital inicial en dólares
         double tasaInteresMensual = 1.5 / 100; // Tasa de interés mensual en porcentaje
